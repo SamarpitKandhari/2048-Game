@@ -1,10 +1,10 @@
 # 2048 Game in Python with Tkinter
 
-## Overview
+## Overview:
 
 This simple 2048 game is implemented in Python using the Tkinter library for the graphical user interface. The game starts with a 4x4 grid, and the player needs to combine matching numbered tiles to reach the coveted 2048 tile.
 
-## Features
+## Features:
 
 - **Colorful UI:** The game features a colorful user interface with different background and text colors for each tile value.
 
@@ -13,7 +13,7 @@ This simple 2048 game is implemented in Python using the Tkinter library for the
 - **Scoring System:** The game keeps track of your score as you merge tiles. The goal is to reach the 2048 tile.
 
 
-## Gameplay
+## Gameplay:
 
 ### Starting the Game:
 
@@ -35,7 +35,7 @@ This simple 2048 game is implemented in Python using the Tkinter library for the
 - Your score is displayed on the console.
 - Successfully merging tiles increases your score.
 
-## Getting Started
+## Getting Started:
 
 To run the game, simply execute the provided Python script:
 
